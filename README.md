@@ -1,82 +1,84 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Shashank Mahaseth
+</h1>
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shashank%20Mahaseth&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20|%20KMP%20|%20Compose%20|%20React%20Native%20|%20Full%20Stack&descAlignY=55&descAlign=50)
+<h3 align="center">
+  🚀 Android Developer | React Native | Jetpack Compose | Kotlin | Firebase
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Building+Scalable+Mobile+Apps;Crafting+Beautiful+UI%2FUX;Exploring+Kotlin+Multiplatform;Mastering+React+Native)](https://git.io/typing-svg)
-
-<a href="https://linkedin.com/in/shashankmahaseth/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shashankmahaseth2323@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/ShashankMahaseth">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br />
-
-## 👨‍💻 About Me
-
-Motivated **Computer Science graduate** (B.Tech CSE-DS) with robust expertise in **Android Development**, specializing in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **React Native**.
-
-I am passionate about building scalable mobile applications using **Clean Architecture** and **MVVM**. I love exploring modern libraries like **Hilt** and **Ktor** to create efficient, maintainable code. Currently open to opportunities to contribute to innovative software solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🌟 About Me
 
-<div align="center">
-
-### 📱 **Mobile Development**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white)
-
-### 💻 **Languages & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-### ⚙️ **Tools & Backend**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
+- 🔭 I’m working on Android & React Native apps  
+- 🌱 Learning Jetpack Compose & ML Kit  
+- 💬 Ask me about Kotlin, Firebase, React Native  
+- ⚡ Night coder 🌙  
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **All in Pyq** | ![Compose](https://img.shields.io/badge/-Compose-4285F4) ![Ktor](https://img.shields.io/badge/-Ktor-0095D5) ![Room](https://img.shields.io/badge/-Room-green) | Comprehensive educational app with **Clean Architecture** & **MVVM**. Features offline access via Room DB and Firebase Auth. Monetized with AdMob. | [Source](https://github.com/ShashankMahaseth/ALL_IN_PYQ-PROJECT) <br> [APK](https://github.com/ShashankMahaseth/ALL_IN_PYQ-PROJECT/releases/tag/v1.2025.1) |
-| **MusicMix App** | ![React Native](https://img.shields.io/badge/-React%20Native-20232A) ![Spotify API](https://img.shields.io/badge/-Spotify%20API-1DB954) | Premium **music discovery app** using Spotify Web API. Features dark mode, linear gradients, Auth flows, and a custom WebView Player. | [Source](https://github.com/ShashankMahaseth/MusicMix) <br> [APK](https://github.com/ShashankMahaseth/MusicMix/releases/tag/v0.1) |
-| **Daily News** | ![React](https://img.shields.io/badge/-React-20232A) ![Vite](https://img.shields.io/badge/-Vite-646CFF) ![Axios](https://img.shields.io/badge/-Axios-5A29E4) | Fast, responsive news aggregator with **country filtering**. Features lazy loading, efficient state management, and a glassmorphism UI. | [Source](https://github.com/shashankmahaseth/NewsApps) <br> [Live](https://newsapp82.netlify.app/) |
-| **Stylish E-commerce** | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28) ![Razorpay](https://img.shields.io/badge/-Razorpay-3483FA) | Full-featured shopping app with **Realtime Database sync** and **Razorpay** integration. Uses DataStore and follows Material Design. | [Source](https://github.com/ShashankMahaseth/Stylish-E-Commerce-) <br> [APK](https://github.com/ShashankMahaseth/Stylish-E-Commerce-/releases/tag/v1.2025.1) |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,react,firebase,git,github,html,css,js" />
+</p>
 
 ---
 
-## 🎓 Education
+## 🏆 GitHub Achievements
 
-- **B.Tech (CSE-DS)** | R.D. Engineering College (2022 - 2026)
-- **Secondary Education** | Bal Jagat Senior Secondary School (2022)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats (No Vercel)
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark"/>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShashankMahaseth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+---
+
+## 🐍 Contribution Snake (NO VERCEL)
+
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://instagram.com/YOUR_LINK"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
