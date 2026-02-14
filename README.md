@@ -75,8 +75,7 @@ I am passionate about building scalable mobile applications using **Clean Archit
 
 <div align="center">
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankMahaseth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMahaseth&layout=compact&theme=radical)
+
 
 </div>
 
