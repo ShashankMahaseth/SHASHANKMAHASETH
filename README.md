@@ -1,37 +1,20 @@
+
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" gradientTransform="rotate(45)">
-      <stop offset="0%" stop-color="#00f2fe">
-        <animate attributeName="stop-color" values="#00f2fe;#4facfe;#43e97b;#fa709a;#00f2fe" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#4facfe">
-        <animate attributeName="stop-color" values="#4facfe;#43e97b;#fa709a;#00f2fe;#4facfe" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="180" fill="url(#grad1)" rx="20"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
-    Shashank Mahaseth
-  </text>
-  <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-size="22" fill="white" font-family="Arial, Helvetica, sans-serif">
-    Android Developer | Kotlin Multiplatform | Jetpack Compose | React Native
-  </text>
-</svg>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Shashank%20Mahaseth&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20|%20KMP%20|%20Compose%20|%20React%20Native%20|%20Full%20Stack&descAlignY=55)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Mobile+Apps;Crafting+Modern+UI%2FUX;Exploring+Kotlin+Multiplatform;Mastering+React+Native)](https://git.io/typing-svg)
 
-### 🌍 Building scalable mobile apps with beautiful UI & clean architecture
+<br/>
 
-<a href="https://linkedin.com/in/shashankmahaseth">
-  <img src="https://img.shields.io/badge/LinkedIn-Gradient-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/shashankmahaseth/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shashankmahaseth2323@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Gradient-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/shashankmahaseth">
-  <img src="https://img.shields.io/badge/GitHub-Gradient-black?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ShashankMahaseth">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -40,28 +23,42 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech (CSE-DS) Graduate**  
-🚀 Mobile App Developer focused on:
+🎓 **Computer Science Graduate (B.Tech CSE-DS)**  
+📱 Passionate **Android Developer** with expertise in:
 
-- Kotlin Multiplatform (KMP)
-- Jetpack Compose
-- React Native
-- Clean Architecture & MVVM
-- Firebase & REST APIs
+- **Kotlin Multiplatform (KMP)**
+- **Jetpack Compose**
+- **React Native**
+- **Clean Architecture & MVVM**
 
-I love crafting **modern UI/UX** with performance-first architecture and scalable code.
+I enjoy crafting scalable, maintainable, and high-performance mobile applications.  
+Always exploring modern tech like **Hilt**, **Ktor**, and **Firebase** to deliver elegant solutions.  
+
+🚀 *Currently open to exciting opportunities in Mobile App Development.*
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-Gradient-purple?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Gradient-green?style=for-the-badge&logo=android&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-Gradient-blue?style=for-the-badge&logo=android)
-![React Native](https://img.shields.io/badge/React%20Native-Gradient-cyan?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-Gradient-orange?style=for-the-badge&logo=firebase)
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white)
+
+### 💻 Web & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ Tools & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google)
 
 </div>
 
@@ -69,38 +66,43 @@ I love crafting **modern UI/UX** with performance-first architecture and scalabl
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **All in PYQ** | Educational app using Clean Architecture & MVVM with offline Room DB and Firebase Auth |
-| **MusicMix App** | Spotify-powered music discovery app with dark mode & modern UI |
-| **Daily News** | React + Axios news platform with country filters & glass UI |
-| **Stylish E-Commerce** | Kotlin + Firebase + Razorpay shopping application |
+| 🚀 Project | 🛠 Tech Stack | 📄 Description | 🔗 Links |
+|------------|-------------|----------------|---------|
+| **All in PYQ** | Compose · Ktor · Room | Educational app using **Clean Architecture + MVVM**. Offline support, Firebase Auth & AdMob integration. | [Source](https://github.com/ShashankMahaseth/ALL_IN_PYQ-PROJECT) · [APK](https://github.com/ShashankMahaseth/ALL_IN_PYQ-PROJECT/releases) |
+| **MusicMix App** | React Native · Spotify API | Premium music discovery app with Auth, dark mode & custom WebView player. | [Source](https://github.com/ShashankMahaseth/MusicMix) · [APK](https://github.com/ShashankMahaseth/MusicMix/releases) |
+| **Daily News** | React · Vite · Axios | Responsive news app with filtering, lazy loading & glassmorphism UI. | [Source](https://github.com/shashankmahaseth/NewsApps) · [Live](https://newsapp82.netlify.app/) |
+| **Stylish E-Commerce** | Kotlin · Firebase · Razorpay | Full shopping app with realtime sync and payment integration. | [Source](https://github.com/ShashankMahaseth/Stylish-E-Commerce-) · [APK](https://github.com/ShashankMahaseth/Stylish-E-Commerce-/releases) |
 
 ---
 
-## 🌱 Currently Exploring
+## 🎓 Education
 
-- Kotlin Multiplatform (KMP)
-- Advanced Jetpack Compose animations
-- System Design for Mobile Apps
-- Secure Firebase Architecture
+🎓 **B.Tech (CSE-DS)** — R.D. Engineering College (2022–2026)  
+🏫 **Secondary Education** — Bal Jagat Sr. Sec. School (2022)
 
 ---
 
-## 📬 Connect With Me
-
-- 🌐 GitHub: https://github.com/shashankmahaseth  
-- 💼 LinkedIn: https://linkedin.com/in/shashankmahaseth  
-- 📧 Email: shashankmahaseth2323@gmail.com  
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-### ✨ “Design. Develop. Deliver.” ✨
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankMahaseth&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMahaseth&layout=compact&theme=tokyonight)
 
 </div>
 
+---
+
+## 🌐 Visitor Count
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashankmahaseth&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ShashankMahaseth&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Create. Innovate.” ✨
+
 </div>
